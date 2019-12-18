@@ -1,0 +1,116 @@
+h1, h2 {
+    font-family: 'Comfortaa', cursive;
+}
+
+.current-view h2, .current-view p, .archive h2, .gallery-header h2 {
+  text-align: center;
+}
+
+.gallery-header h2 {
+  color: #dbdbdb;
+}
+
+h2 {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+h3 { color: #551b06; }
+
+a {
+  color: #c63300;
+}
+
+.top-bar {
+  border-bottom: 1px solid #d9d9d9;
+}
+
+.top-bar, .top-bar ul {
+  background-color: #f8f8f8;
+  color: #747474;
+}
+
+.top-bar ul a {
+  color: #747474;
+}
+
+.top-bar ul a:hover {
+  color: #bcbcbc;
+}
+
+.hero {
+    background-color: #f8f8f8;
+    color: #202F36;
+}
+
+.hero h1 {
+    font-size: 3.75rem;
+    line-height: 1.2;
+    margin-bottom: 40px;
+}
+
+.hero .copy p {
+    font-size: 1.35rem;
+}
+
+.grid-container {
+    padding: 30px 0;
+}
+
+iframe {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+.current-view {
+  background-color: #dbdbdb;
+}
+
+.current-view-image img {
+  border-radius: 20px;
+  background-color: #ccc;
+  border: 1px solid #aaa;
+  border-radius: 10px;
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  width: 1000px;
+}
+
+.gallery-container {
+  background-color: #2e2e2e;
+}
+
+.gallery {
+  margin-bottom: 30px;
+}
+
+.gallery img {
+  border: 1px solid #444;
+  border-radius: 10px;
+}
+
+.info, .twitter {
+    padding: 30px 0;
+}
+
+.archive {
+  background-color: #dbdbdb;
+}
+
+.archive ul li {
+    display: block;
+    margin-bottom: 40px;
+    text-decoration: none;
+}
+
+.footer {
+    background-color: #c63300;
+    color: #fff;
+    text-align: center;
+}
+
+.footer a {
+  color: #fff;
+}
