@@ -3,7 +3,7 @@ var t;
 $(document).foundation();
 
 $(document).ready(function() {
-    imageTimer();
+    //imageTimer();
 });
 
 imageTimer = function() {
